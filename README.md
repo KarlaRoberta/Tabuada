@@ -1,3 +1,4 @@
 # Tabuada
- Tabuada usando JavaCript
-https://karlaroberta.github.io/Tabuada/
+Gerador de tabuada usando JavaScript.
+
+link: https://karlaroberta.github.io/Tabuada/
